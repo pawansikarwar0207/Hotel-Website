@@ -1,0 +1,22 @@
+*{
+	font-family: Lato,sans-serif;
+}
+body{
+	background: f1fbff;
+}
+.nav-link.active {
+  color: red !important;
+  border-bottom: 1px solid;
+}
+.man li:hover{
+	background-color: whitesmoke;
+	cursor: pointer;
+}
+.map {
+	width: 100%;
+	height: 220px;
+}
+#navlink{
+	margin-right: 20px;
+	text-align: center;
+}
